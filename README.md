@@ -51,10 +51,10 @@ To set up your AI Chatbot project, follow these steps:
 * [Building Chatbots with Python and Flask](https://realpython.com/flask-google-app-engine-deploy/)
 * [Deploying Chatbots on the Cloud](https://realpython.com/flask-google-app-engine-deploy/)
 
-🤝 Contributing
+### 🤝 Contributing
 We welcome contributions from the community! If you'd like to contribute to our AI Chatbot project, please follow these guidelines:
-🐛 Report bugs and suggest improvements by opening issues.
-🔧 Submit pull requests with bug fixes or new features.
-📚 Improve documentation and provide helpful resources.
+- 🐛 Report bugs and suggest improvements by opening issues.
+- 🔧 Submit pull requests with bug fixes or new features.
+- 📚 Improve documentation and provide helpful resources.
 Let's work together to create amazing open-source chatbots! 🙌
 

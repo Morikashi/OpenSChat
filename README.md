@@ -28,20 +28,21 @@ To set up your AI Chatbot project, follow these steps:
 🔍 Load the model and tokenizer:
 ### Step 5: Chat
 💬 Start the conversation loop:
-- Step 5.1: Keeping Track of Conversation History \
-📜 Maintain a list to store conversation history. \
-- Step 5.2: Encoding the Conversation History \
-🔄 Encode the conversation history for processing. \
-- Step 5.3: Fetch Prompt from User \
-🗣️ Get input from the user. \
-- Step 5.4: Tokenization of User Prompt and Chat History] \
-🔑 Tokenize the input and history: \
-- Step 5.5: Generate Output from Model
-⚡ Generate a response from the model: \
-- Step 5.6: Decode Output \
-🔍 Decode the model's output to get the response text. \
-- Step 5.7: Update Conversation History \
-📝 Append the new user prompt and model response to the conversation history.\
+- Step 5.1: Keeping Track of Conversation History  
+  📜 Maintain a list to store conversation history.  
+- Step 5.2: Encoding the Conversation History  
+  🔄 Encode the conversation history for processing.  
+- Step 5.3: Fetch Prompt from User  
+  🗣️ Get input from the user.  
+- Step 5.4: Tokenization of User Prompt and Chat History  
+  🔑 Tokenize the input and history.  
+- Step 5.5: Generate Output from Model  
+  ⚡ Generate a response from the model.  
+- Step 5.6: Decode Output  
+  🔍 Decode the model's output to get the response text.  
+- Step 5.7: Update Conversation History  
+  📝 Append the new user prompt and model response to the conversation history.  
+
 
 ### Step 6: Repeat
 🔄 Continue the chat loop for ongoing interaction.

@@ -46,9 +46,9 @@ Step 5.7: Update Conversation History
 ### Step 6: Repeat
 🔄 Continue the chat loop for ongoing interaction.
 🌐 Additional Resources
-[Open-Source LLMs: A Comprehensive Guide](https://www.analyticsvidhya.com/blog/2021/06/open-source-language-models-a-comprehensive-guide/)
-[Building Chatbots with Python and Flask](https://realpython.com/flask-google-app-engine-deploy/)
-[Deploying Chatbots on the Cloud](https://realpython.com/flask-google-app-engine-deploy/)
+* [Open-Source LLMs: A Comprehensive Guide](https://www.analyticsvidhya.com/blog/2021/06/open-source-language-models-a-comprehensive-guide/)
+* [Building Chatbots with Python and Flask](https://realpython.com/flask-google-app-engine-deploy/)
+* [Deploying Chatbots on the Cloud](https://realpython.com/flask-google-app-engine-deploy/)
 
 🤝 Contributing
 We welcome contributions from the community! If you'd like to contribute to our AI Chatbot project, please follow these guidelines:
